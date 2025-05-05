@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mrcprlx.github.io/ai-tools-affiliate/sitemap.xml
